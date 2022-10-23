@@ -165,6 +165,48 @@ button {
     min-height: 0;
 }
 
+.cta {
+    display: flex;
+    justify-content: center;
+}
+
+.modal {
+    background-color: #3882f6;
+    border-radius: 3%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 5%;
+    flex-grow: 1;
+}
+
+.modal-left {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 24px;
+}
+
+.modal-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.modal-button {
+    color: white;
+    border-color: white;
+    font-size: 16px;
+    font-weight: 600;
+    height: 48px;
+    width: 150px;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .footer {
     display: flex;
     justify-content: center;
