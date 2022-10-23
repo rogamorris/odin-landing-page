@@ -6,4 +6,4 @@ Accessible at this URL: https://rogamorris.github.io/odin-landing-page
 This was my first foray into flex box and I could only get it to work on desktop. If you open it on mobile it'll look like crap.
 
 This is how the page is supposed to look:
-<img ahref="landing-page-mockup.png">
+![reference-image](landing-page-mockup.png)
